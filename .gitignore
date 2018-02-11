@@ -1,9 +1,5 @@
 
-proj.win32/.vs/QRCodeGenerator/v15/Solution.VC.db-wal
-proj.win32/.vs/QRCodeGenerator/v15/Solution.VC.db
-proj.win32/.vs/QRCodeGenerator/v15/Solution.VC.db-shm
-proj.win32/.vs/QRCodeGenerator/v15/Browse.VC.db
-proj.win32/.vs/QRCodeGenerator/v15/.suo
+proj.win32/.vs
 cocos2d/cocos/2d/Debug.win32
 cocos2d/cocos/editor-support/spine/proj.win32
 cocos2d/external/Box2D/proj.win32
